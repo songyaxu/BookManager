@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491813152 source:c:\users\songyx\documents\s\www\1.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<conio.h>
+	<cstring>
+	<stdlib.h>
+
